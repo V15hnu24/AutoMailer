@@ -12,9 +12,9 @@ A simple Python script to send automated HTML emails to multiple recipients usin
 ## 📂 Project Structure
 
 BulkEmailSender/
-├── email_sender.py         # Main Python script
-├── recipients.csv          # CSV file containing email addresses
-└── README.md               # Project documentation
+- email_sender.py         # Main Python script
+- recipients.csv          # CSV file containing email addresses
+- README.md               # Project documentation
 
 ## 🛠️ Requirements
 
